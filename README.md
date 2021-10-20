@@ -9,4 +9,7 @@ Segundo cambio en la rama pruebas.
 
 Un tercer cambio.
 
-Cambio en repositorio ageno
+Cambio en repositorio ajeno
+corregir texto
+
+comprobando squash
