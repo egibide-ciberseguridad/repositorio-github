@@ -2,7 +2,7 @@
 
 Primer repo de prueba.
 
-Primer commit
+Primer commit confirmado
 
 Este cambio está en la rama pruebas.
 Segundo cambio en la rama pruebas.
